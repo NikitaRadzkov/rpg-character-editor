@@ -1,0 +1,42 @@
+.skills {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.skills h2 {
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.skills table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.skills th,
+.skills td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.skills th {
+  font-weight: bold;
+}
+
+.skills select {
+  padding: 6px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  outline: none;
+}
+
+.skills select:focus {
+  border-color: #2f80ed;
+}

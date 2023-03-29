@@ -1,0 +1,36 @@
+.export-import {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.export-import button {
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #2f80ed;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.export-import button:hover {
+  background-color: #0052cc;
+}
+
+.export-import label {
+  font-size: 16px;
+}
+
+.export-import input[type="file"] {
+  font-size: 16px;
+  border: 1px solid #ccc;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.export-import input[type="file"]:focus {
+  border-color: #2f80ed;
+}

@@ -1,0 +1,17 @@
+.derived-parameters {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.derived-parameters h2 {
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.derived-parameters div {
+  font-size: 16px;
+  margin: 5px 0;
+}
