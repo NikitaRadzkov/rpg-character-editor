@@ -6,7 +6,7 @@ To get started, follow these steps:
 
 1. Clone the repository:
 ```shell
-  git clone https://github.com/your-username/my-react-project.git
+  git clone https://github.com/NikitaRadzkov/rpg-character-editor.git
 ```
 
 2. Navigate into the project directory:
